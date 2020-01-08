@@ -1,0 +1,14 @@
+1. A port number is a way to identify a specific process to which an Internet 
+or other network message is to be forwarded when it arrives at a server.
+2. Server port is ranging from 0 to 65535.
+3. A port number is a 16-bit unsigned integer.
+4. SMTP - 25
+   HTTP - 80
+   HTTPS - 443
+   FTP - 20, 21
+   TELNET - 23
+   SSH - 22
+   IMAP - 143
+   RDP - 3389
+   DHCP - 67, 68
+   POP3 - 110
