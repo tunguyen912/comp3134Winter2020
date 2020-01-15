@@ -1,0 +1,90 @@
+Domain Name: TUNGUYEN.COM
+Registry Domain ID: 963615621_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.google.com
+Registrar URL: http://domains.google
+Updated Date: 2019-05-07T21:53:05Z
+Creation Date: 2007-05-07T19:01:26Z
+Registry Expiry Date: 2020-05-07T19:01:26Z
+Registrar: Google LLC
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: registrar-abuse@google.com
+Registrar Abuse Contact Phone: +1.8772376466
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS-CLOUD-A1.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-A2.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-A3.GOOGLEDOMAINS.COM
+Name Server: NS-CLOUD-A4.GOOGLEDOMAINS.COM
+DNSSEC: unsigned
+------------------------------------------------------------------------
+Domain Name: HAHAHA.COM
+Registry Domain ID: 1090351_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: http://www.gandi.net
+Updated Date: 2019-01-16T15:46:26Z
+Creation Date: 1996-03-23T05:00:00Z
+Registry Expiry Date: 2020-03-24T04:00:00Z
+Registrar: Gandi SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.MMCM.CA
+Name Server: NS2.MEPLUS.COM
+Name Server: NS3.MMCM.COM
+DNSSEC: unsigned
+------------------------------------------------------------------------
+Domain Name: MEOWMEOW.COM
+Registry Domain ID: 1070534_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.rebel.com
+Registrar URL: http://www.rebel.com
+Updated Date: 2019-08-23T10:23:42Z
+Creation Date: 1997-08-19T04:00:00Z
+Registry Expiry Date: 2020-08-18T04:00:00Z
+Registrar: Rebel Ltd
+Registrar IANA ID: 600
+Registrar Abuse Contact Email: abuse@rebel.com
+Registrar Abuse Contact Phone: 1-866-497-3235
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS1.ABOUTEARS.COM
+Name Server: NS2.ABOUTEARS.COM
+DNSSEC: unsigned
+------------------------------------------------------------------------
+Domain Name: DINOSAUR.COM
+Registry Domain ID: 99403_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://www.cscglobal.com/global/web/csc/digital-brand-services.html
+Updated Date: 2018-10-01T07:06:58Z
+Creation Date: 1994-11-15T05:00:00Z
+Registry Expiry Date: 2019-11-14T05:00:00Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: 8887802723
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ORNS01.DIG.COM
+Name Server: ORNS02.DIG.COM
+Name Server: SENS01.DIG.COM
+Name Server: SENS02.DIG.COM
+DNSSEC: unsigned
+------------------------------------------------------------------------
+Domain Name: HELLOWORLD.COM
+Registry Domain ID: 2024020_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2016-02-03T18:35:30Z
+Creation Date: 1998-09-23T04:00:00Z
+Registry Expiry Date: 2020-09-22T04:00:00Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 480-624-2505
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: NS1.EPRIZE.COM
+Name Server: NS1.EPRIZE.NET
+Name Server: NS2.EPRIZE.COM
+Name Server: NS2.EPRIZE.NET
+DNSSEC: unsigned
