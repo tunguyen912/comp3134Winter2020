@@ -1,0 +1,2 @@
+The problem is possible JavaScript injection without client's awareness. The script can be changed so
+that there's no output, but the source code is replaced.
