@@ -1,0 +1,8 @@
+root@lamp-s-1vcpu-1gb-tor1-01:/etc/ssh# ufw allow 2222/tcp
+Rule added
+Rule added (v6)
+root@lamp-s-1vcpu-1gb-tor1-01:/etc/ssh# service sshd restart
+root@lamp-s-1vcpu-1gb-tor1-01:/etc/ssh# logout
+Connection to 167.99.182.133 closed.
+
+root@lamp-s-1vcpu-1gb-tor1-01:~# ssh root@167.99.182.133 -p 2222
