@@ -1,0 +1,24 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -A -i eth0
+
+...
+h.Y..3......[......r1./H...t.|.v.U..0.......<.h..s^a.cj.......@.m.o."..BFp.z....q.....QLQs.v.../@..e.@..*.:.k.......T......G.
+.u...16.?.H.    ...AIz%..y.....G%....(..,w.....7.-n.,.2..24.!   .l.......].V..&."..|.......d...h5....
+.LY...^.Wv^3l{.....[o.:]..'........eN.^sL.#...rE.$F
+20:33:33.966911 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 4856204:4856416, ack 2161, win 890, length 212
+E...?8@.@.4..c..c.......y.B'n..4P..z......G^.5..lk..7....W....x         ....Y+.UM..j.#K...[.a.Nt........i......+.fc...b.....w..
+...:G.$....@hF.e.!....'fV.u.Y.A....3.LY2Yy./...`)>.K....-.{...2,..m....o!.x.I7.:.@....YV.P.;    .~.o.,...U...+Z......EP..G.#...1e\.o..
+20:33:33.967015 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 4856416:4856452, ack 2161, win 890, length 36
+E..L?9@.@.4..c..c.......y.B.n..4P..z...............y.e&...M..h].......p
+.._.
+20:33:33.967455 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 4856708:4856920, ack 2161, win 890, length 212
+E...?>@.@.4..c..c.......y.D.n..4P..z.......[.. .k)...H..... .j..=p>.].e.{..9\.\..M.O.EJ.......
+.}4........v....9...5..=...B&_9.T...N6.7...|6#...#.Dis.L..      ..S...P...<...|x..d....;'k!..B..........X.-B.....V.b..e.....Mp#........b..=.......q.U
+....lC..|.rr
+20:33:33.967996 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 4857260:4857472, ack 2161, win 890, length 212
+E...?D@.@.4..c..c.......y.FGn..4P..z.......lo.P......P.....U...6.%...   ....hK#h...]...:3J.;..R.`6e.OWP/Qm.&..=.M).y$...d.pu..z
+^C...{s...............{..I*...aOlG-....N.......e....)..Y.R.....+...4....z......`.k._,,I..i....U`.{.....z..~k.r.....re
+...*.pL.s.
+
+5782 packets captured
+11103 packets received by filter
+5315 packets dropped by kernel

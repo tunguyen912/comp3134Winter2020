@@ -1,0 +1,34 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0 dst 99.252.4.178
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+20:47:49.183272 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 2036978923:2036979031, ack 1846235912, win 890, length 108
+20:47:49.183370 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 108:144, ack 1, win 890, length 36
+20:47:49.183467 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 144:252, ack 1, win 890, length 108
+20:47:49.183542 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 252:288, ack 1, win 890, length 36
+20:47:49.185334 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 288:516, ack 1, win 890, length 228
+20:47:49.185423 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 516:552, ack 1, win 890, length 36
+20:47:49.185540 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 552:756, ack 1, win 890, length 204
+20:47:49.185618 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 756:792, ack 1, win 890, length 36
+20:47:49.185728 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 792:996, ack 1, win 890, length 204
+20:47:49.199626 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 996:2472, ack 1, win 890, length 1476
+20:47:49.199825 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 2472:2676, ack 1, win 890, length 204
+20:47:49.199907 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 2676:2712, ack 1, win 890, length 36
+20:47:49.200018 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 2712:2916, ack 1, win 890, length 204
+20:47:49.200100 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 2916:2952, ack 1, win 890, length 36
+20:47:49.200205 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 2952:3156, ack 1, win 890, length 204
+...
+20:47:49.461456 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 388708:388920, ack 73, win 890, length 212
+20:47:49.461579 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 388920:389132, ack 73, win 890, length 212
+20:47:49.461695 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 389132:389344, ack 73, win 890, length 212
+20:47:49.461808 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 389344:389556, ack 73, win 890, length 212
+20:47:49.461921 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 389556:389768, ack 73, win 890, length 212
+20:47:49.462035 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 389768:389980, ack 73, win 890, length 212
+20:47:49.462145 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 389980:390192, ack 73, win 890, length 212
+20:47:49.462263 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 390192:390404, ack 73, win 890, length 212
+20:47:49.462378 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 390404:390616, ack 73, win 890, length 212
+20:47:49.462492 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 390616:390828, ack 73, win 890, length 212
+20:47:49.462601 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 390828:391040, ack 73, win 890, length 212
+20:47:49.462863 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 391040:391252, ack 145, win 890, length 212
+1853 packets captured
+1862 packets received by filter
+9 packets dropped by kernel

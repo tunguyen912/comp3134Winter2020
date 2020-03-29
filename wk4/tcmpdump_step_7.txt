@@ -1,0 +1,10 @@
+root@lamp-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+20:38:19.441914 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 2031527003:2031527047, ack 1846225308, win 890, length 44
+20:38:19.442034 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 44:152, ack 1, win 890, length 108
+20:38:19.442117 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824: Flags [P.], seq 152:188, ack 1, win 890, length 36
+20:38:19.454730 IP CPE9050ca23f653-CM9050ca23f650.cpe.net.cable.rogers.com.57824 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 188, win 4116, length 0
+20:38:20.743777 IP 112.85.42.94.45522 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [P.], seq 364495050:364495921, ack 1423939220, win 229, options [nop,nop,TS val 8700894 ecr 2086442454], length 871
+20:38:23.045417 IP 112.85.42.94.45522 > lamp-s-1vcpu-1gb-tor1-01.ssh: Flags [FP.], seq 871:895, ack 1, win 229, options [nop,nop,TS val 8701469 ecr 2086442454], length 24
+20:38:23.203826 IP lamp-s-1vcpu-1gb-tor1-01.http > 193-80-215-43.hdsl.highway.telekom.at.43120: Flags [S.], seq 2329918125, ack 458189340, win 29200, options [mss 1460], length 0
+20:38:27.043878 IP lamp-s-1vcpu-1gb-tor1-01.http > adsl-074-181-235-085.sip.mem.bellsouth.net.32556: Flags [S.], seq 532518806, ack 3733198195, win 29200, options [mss 1460], length 0
