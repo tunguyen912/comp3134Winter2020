@@ -1,0 +1,5 @@
+1) curl GET 'https://www.dictionary.com/browse/curl'
+2) curl GET 'https://www.dictionary.com/browse/curlxyz'
+3) curl GET 'http://167.99.182.133/sending_info_to_app_1.php?q=helloworld'
+4) curl GET "http://167.99.182.133/sending_info_to_app_1.php?q=<script>document.write('overwrite_everything')</script>"
+5) curl GET "http://167.99.182.133/sending_info_to_app_2.php?q=<script>document.write('overwrite_everything')</script>"

@@ -1,0 +1,8 @@
+1) strip_tags(): This function strips a string from HTML, XML, and PHP tags. 
+It performs a check to the string passed as the first argument of the function, 
+and removes all the tags from the string
+
+2) HTML Entities: reserved characters in HTML must be replaced with character entities.
+it converts the tags to text and displays this text on the browserpage,
+
+3) The strip_tags() works for whatever user input while the HTML Entities only works for some reserved characters.
