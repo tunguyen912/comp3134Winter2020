@@ -1,0 +1,11 @@
+1. Ben
+The query can not find any result as expected because the value of active column is 0
+2. Ben'-- 
+The query returns result of firstname: Ben and active: 0 as expected
+Because '--' means ignore everything after that, so it didnt check for the active value
+3. Ben' or 1=1
+The query cannot find any result not as I expected.
+I expected it will display all the records which either have firstname is Ben or have active = 1
+
+Mitigate SQL Injection: 
+All three cases have results as I have expected. 
